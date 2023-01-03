@@ -63,6 +63,8 @@ console.log(res); //undefined
 const stat = null;
 console.log(stat); //null
 
+//NaN
+
 //Complex Datatypes in JavaScript
 
 //Objects
